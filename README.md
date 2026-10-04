@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="logo" src="https://github.com/user-attachments/assets/9df3d85c-8ff6-420c-8fbe-1bd9e068f5c3" />
+
 # AutoQuaerere
 
 **AutoQuaerere** is a Chromium browser extension by **noviciususor** for generating and sequentially opening randomized Bing search queries from a compact popup interface.

@@ -62,28 +62,13 @@ AutoQuaerere currently requests:
 - `storage` — to preserve generated links and extension state
 - `alarms` — to support Manifest V3 background scheduling
 
-## Branding
-
-AutoQuaerere uses the **noviciususor** palette:
-
-| Role | Hex |
-|---|---|
-| Primary Accent | `#1EE89D` |
-| Secondary Accent | `#088D3C` |
-| Dark Background | `#020E03` |
-| Primary Text / Metallic Silver | `#EDF1EE` |
-| Deep Accent | `#0A3A15` |
-| Light Metal | `#B7BFB7` |
-| Mid Metal | `#81877E` |
-| Dark Metal | `#474E45` |
-
 ## Disclaimer
 
 AutoQuaerere is provided for personal, educational, development, and testing purposes. Automated activity may be restricted by the terms of websites or services you use. You are responsible for complying with applicable terms, policies, and rules.
 
 ## Author
 
-**noviciususor**
+Created and maintained by noviciususor.
 
 ## Version
 
